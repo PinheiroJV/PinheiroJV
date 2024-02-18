@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vitor
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning HTML and CSS / JAVA / 
+- 🌱 I’m currently learning HTML and CSS / JS / JAVA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: smjvsilva@gmail.com
 
