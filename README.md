@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PinheiroJV
+- 👋 Hi, I’m Vitor
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning HTML and CSS / JAVA / 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: smjvsilva@gmail.com
 
 <!---
 PinheiroJV/PinheiroJV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
